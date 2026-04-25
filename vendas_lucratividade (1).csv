@@ -1,0 +1,76 @@
+id_pedido,data_pedido,regiao,segmento,categoria,produto,quantidade,preco_unitario,desconto,custo_unitario
+PED-001,2024-01-05,Sudeste,Corporativo,Tecnologia,Notebook Dell,2,3200.00,0.10,2100.00
+PED-002,2024-01-08,Sul,Consumidor,Móveis,Cadeira Ergonômica,4,890.00,0.05,520.00
+PED-003,2024-01-12,Nordeste,Consumidor,Material Escritório,Resma de Papel,10,28.00,0.00,12.00
+PED-004,2024-01-15,Sudeste,Pequena Empresa,Tecnologia,Monitor LG 24,3,1150.00,0.08,720.00
+PED-005,2024-01-20,Centro-Oeste,Corporativo,Móveis,Mesa de Escritório,2,1400.00,0.15,850.00
+PED-006,2024-01-22,Norte,Consumidor,Tecnologia,Teclado Mecânico,5,320.00,0.00,180.00
+PED-007,2024-01-28,Sudeste,Corporativo,Tecnologia,Smartphone Samsung,6,2800.00,0.12,1950.00
+PED-008,2024-02-03,Sul,Consumidor,Material Escritório,Caneta Esferográfica,50,3.50,0.00,1.20
+PED-009,2024-02-07,Nordeste,Pequena Empresa,Móveis,Estante de Aço,3,670.00,0.05,390.00
+PED-010,2024-02-10,Sudeste,Consumidor,Tecnologia,Impressora HP,2,980.00,0.10,620.00
+PED-011,2024-02-14,Sul,Corporativo,Tecnologia,Roteador Wi-Fi,8,240.00,0.00,130.00
+PED-012,2024-02-18,Centro-Oeste,Consumidor,Material Escritório,Grampeador,12,45.00,0.05,18.00
+PED-013,2024-02-22,Sudeste,Pequena Empresa,Tecnologia,HD Externo 1TB,4,420.00,0.08,240.00
+PED-014,2024-02-25,Norte,Corporativo,Móveis,Sofá Corporativo,1,3200.00,0.20,2100.00
+PED-015,2024-03-01,Sudeste,Consumidor,Tecnologia,Fone Bluetooth,7,380.00,0.00,190.00
+PED-016,2024-03-05,Sul,Pequena Empresa,Material Escritório,Pasta Arquivo,20,22.00,0.00,8.00
+PED-017,2024-03-10,Nordeste,Corporativo,Tecnologia,Projetor Epson,1,4500.00,0.15,3100.00
+PED-018,2024-03-14,Sudeste,Consumidor,Móveis,Poltrona,2,1100.00,0.10,680.00
+PED-019,2024-03-18,Centro-Oeste,Pequena Empresa,Tecnologia,Webcam Full HD,6,290.00,0.05,160.00
+PED-020,2024-03-22,Sul,Corporativo,Material Escritório,Papel A3,30,12.00,0.00,5.00
+PED-021,2024-03-28,Norte,Consumidor,Tecnologia,Tablet Lenovo,3,1650.00,0.08,1050.00
+PED-022,2024-04-02,Sudeste,Corporativo,Móveis,Armário de Aço,2,1850.00,0.10,1100.00
+PED-023,2024-04-07,Nordeste,Consumidor,Material Escritório,Calculadora Científica,8,78.00,0.00,32.00
+PED-024,2024-04-12,Sul,Pequena Empresa,Tecnologia,Switch 8 Portas,4,350.00,0.05,195.00
+PED-025,2024-04-16,Sudeste,Consumidor,Tecnologia,SSD 500GB,9,280.00,0.00,155.00
+PED-026,2024-04-20,Centro-Oeste,Corporativo,Móveis,Gaveteiro Móvel,5,490.00,0.08,280.00
+PED-027,2024-04-25,Norte,Pequena Empresa,Material Escritório,Agenda 2024,15,35.00,0.05,12.00
+PED-028,2024-05-02,Sudeste,Corporativo,Tecnologia,Notebook Dell,3,3200.00,0.10,2100.00
+PED-029,2024-05-06,Sul,Consumidor,Móveis,Cadeira Gamer,2,1200.00,0.00,750.00
+PED-030,2024-05-10,Nordeste,Corporativo,Tecnologia,Monitor LG 24,4,1150.00,0.08,720.00
+PED-031,2024-05-15,Sudeste,Pequena Empresa,Material Escritório,Caixa de Clipe,25,8.50,0.00,3.00
+PED-032,2024-05-20,Centro-Oeste,Consumidor,Tecnologia,Mouse Sem Fio,11,120.00,0.05,58.00
+PED-033,2024-05-24,Sul,Corporativo,Móveis,Mesa de Reunião,1,4800.00,0.20,3200.00
+PED-034,2024-05-28,Norte,Consumidor,Material Escritório,Fichário,18,19.00,0.00,7.00
+PED-035,2024-06-03,Sudeste,Corporativo,Tecnologia,Smartphone Samsung,4,2800.00,0.12,1950.00
+PED-036,2024-06-07,Nordeste,Pequena Empresa,Móveis,Cadeira Ergonômica,6,890.00,0.05,520.00
+PED-037,2024-06-12,Sul,Consumidor,Tecnologia,Impressora HP,3,980.00,0.10,620.00
+PED-038,2024-06-17,Sudeste,Corporativo,Material Escritório,Resma de Papel,40,28.00,0.00,12.00
+PED-039,2024-06-22,Centro-Oeste,Pequena Empresa,Tecnologia,HD Externo 1TB,5,420.00,0.08,240.00
+PED-040,2024-06-27,Norte,Corporativo,Móveis,Estante de Aço,2,670.00,0.05,390.00
+PED-041,2024-07-03,Sudeste,Consumidor,Tecnologia,Fone Bluetooth,10,380.00,0.00,190.00
+PED-042,2024-07-08,Sul,Pequena Empresa,Tecnologia,Webcam Full HD,7,290.00,0.05,160.00
+PED-043,2024-07-13,Nordeste,Corporativo,Móveis,Mesa de Escritório,3,1400.00,0.15,850.00
+PED-044,2024-07-18,Sudeste,Consumidor,Material Escritório,Grampeador,20,45.00,0.05,18.00
+PED-045,2024-07-23,Centro-Oeste,Corporativo,Tecnologia,Roteador Wi-Fi,12,240.00,0.00,130.00
+PED-046,2024-07-28,Norte,Consumidor,Tecnologia,Tablet Lenovo,2,1650.00,0.08,1050.00
+PED-047,2024-08-02,Sudeste,Pequena Empresa,Móveis,Poltrona,3,1100.00,0.10,680.00
+PED-048,2024-08-07,Sul,Corporativo,Tecnologia,Projetor Epson,2,4500.00,0.15,3100.00
+PED-049,2024-08-12,Nordeste,Consumidor,Material Escritório,Caneta Esferográfica,80,3.50,0.00,1.20
+PED-050,2024-08-17,Sudeste,Corporativo,Tecnologia,Monitor LG 24,5,1150.00,0.08,720.00
+PED-051,2024-08-22,Centro-Oeste,Consumidor,Tecnologia,SSD 500GB,6,280.00,0.00,155.00
+PED-052,2024-08-27,Sul,Pequena Empresa,Móveis,Armário de Aço,2,1850.00,0.10,1100.00
+PED-053,2024-09-02,Norte,Corporativo,Material Escritório,Papel A3,50,12.00,0.00,5.00
+PED-054,2024-09-07,Sudeste,Consumidor,Tecnologia,Notebook Dell,1,3200.00,0.10,2100.00
+PED-055,2024-09-12,Nordeste,Corporativo,Tecnologia,Switch 8 Portas,6,350.00,0.05,195.00
+PED-056,2024-09-17,Sul,Consumidor,Móveis,Cadeira Gamer,3,1200.00,0.00,750.00
+PED-057,2024-09-22,Sudeste,Pequena Empresa,Material Escritório,Calculadora Científica,10,78.00,0.00,32.00
+PED-058,2024-09-27,Centro-Oeste,Corporativo,Tecnologia,Smartphone Samsung,5,2800.00,0.12,1950.00
+PED-059,2024-10-02,Norte,Consumidor,Móveis,Mesa de Escritório,1,1400.00,0.15,850.00
+PED-060,2024-10-07,Sudeste,Corporativo,Tecnologia,Roteador Wi-Fi,15,240.00,0.00,130.00
+PED-061,2024-10-12,Sul,Pequena Empresa,Material Escritório,Resma de Papel,60,28.00,0.00,12.00
+PED-062,2024-10-17,Nordeste,Consumidor,Tecnologia,Fone Bluetooth,8,380.00,0.00,190.00
+PED-063,2024-10-22,Sudeste,Corporativo,Móveis,Mesa de Reunião,1,4800.00,0.20,3200.00
+PED-064,2024-10-27,Centro-Oeste,Consumidor,Tecnologia,HD Externo 1TB,7,420.00,0.08,240.00
+PED-065,2024-11-02,Norte,Pequena Empresa,Tecnologia,Webcam Full HD,9,290.00,0.05,160.00
+PED-066,2024-11-07,Sudeste,Corporativo,Material Escritório,Grampeador,30,45.00,0.05,18.00
+PED-067,2024-11-12,Sul,Consumidor,Tecnologia,Mouse Sem Fio,14,120.00,0.05,58.00
+PED-068,2024-11-17,Nordeste,Corporativo,Móveis,Cadeira Ergonômica,5,890.00,0.05,520.00
+PED-069,2024-11-22,Sudeste,Pequena Empresa,Tecnologia,SSD 500GB,12,280.00,0.00,155.00
+PED-070,2024-11-27,Centro-Oeste,Corporativo,Tecnologia,Notebook Dell,4,3200.00,0.10,2100.00
+PED-071,2024-12-02,Norte,Consumidor,Material Escritório,Agenda 2024,25,35.00,0.05,12.00
+PED-072,2024-12-07,Sudeste,Corporativo,Tecnologia,Monitor LG 24,6,1150.00,0.08,720.00
+PED-073,2024-12-12,Sul,Consumidor,Móveis,Poltrona,2,1100.00,0.10,680.00
+PED-074,2024-12-17,Nordeste,Pequena Empresa,Tecnologia,Tablet Lenovo,4,1650.00,0.08,1050.00
+PED-075,2024-12-22,Sudeste,Corporativo,Material Escritório,Papel A3,45,12.00,0.00,5.00
