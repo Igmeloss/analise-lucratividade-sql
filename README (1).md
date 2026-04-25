@@ -22,7 +22,7 @@ respondendo perguntas estratégicas como:
 ```
 📁 analise-lucratividade-sql/
 ├── vendas_lucratividade.csv     # Dataset com 75 pedidos de vendas
-├── analise_lucratividade.sql    # 10 queries SQL comentadas
+├── analise_lucratividade.sql    # 6 queries SQL comentadas
 └── README.md                    # Documentação do projeto
 ```
 
@@ -35,7 +35,7 @@ respondendo perguntas estratégicas como:
 | 01 | Visão geral: receita, custo e lucro total | `SUM`, cálculo de margem |
 | 02 | Lucratividade por categoria | `GROUP BY`, `ORDER BY` |
 | 03 | Top 10 produtos mais lucrativos | `LIMIT`, múltiplos `GROUP BY` |
-| 04 | Evolução mensal — tendência e sazonalidade | `SUBSTR` para extrair mês |
+| 04 | Evolução mensal — tendência e sazonalidade | `SUBSTRING` para extrair mês |
 | 05 | Impacto do desconto na margem | `CASE WHEN` |
 | 06 | Produtos com margem abaixo de 20% | `HAVING` |
 
@@ -50,24 +50,13 @@ respondendo perguntas estratégicas como:
 
 ---
 
-## 🛠️ Como Executar
-
-1. Acesse [sqliteonline.com](https://sqliteonline.com)
-2. Clique em **"Import"** e selecione o arquivo `vendas_lucratividade.csv`
-3. Abra o arquivo `analise_lucratividade.sql`
-4. Execute as queries uma por vez e observe os resultados
-
----
-
 ## 🧰 Ferramentas Utilizadas
 
-- **SQL** (SQLite)
-- **SQLiteOnline** — ambiente online, sem necessidade de instalação
+
+- **Sql Online** — ambiente online, sem necessidade de instalação (data.world)
 - Conceitos: `GROUP BY`, `HAVING`, `CASE WHEN`, `SUBSTR`, `COUNT DISTINCT`, agregações financeiras
 
 ---
 
-## 👤 Autor
 
-**Igor Leonardo dos Santos Silva**  
 [linkedin.com/in/igormeloss](https://linkedin.com/in/igormeloss) · [github.com/Igmeloss](https://github.com/Igmeloss)
